@@ -1,10 +1,6 @@
 # 📌 Job Application Tracker
 
-# 📌 Job Application Tracker
-
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-orange)](https://job-application-tracker-dev.streamlit.app)
-
-A clean and professional **Job Application Tracker** built using **Python & Streamlit** to track job applications efficiently with a modern dark UI.
 
 A clean and professional **Job Application Tracker** built using **Python & Streamlit** to track job applications efficiently with a modern dark UI.
 
@@ -28,3 +24,4 @@ A clean and professional **Job Application Tracker** built using **Python & Stre
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
